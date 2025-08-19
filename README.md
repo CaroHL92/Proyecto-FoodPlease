@@ -9,6 +9,8 @@ Proyecto académico diseñado para el curso Taller de desarrollo web y móvil
 # Mockups
 https://www.figma.com/design/P0jA7GuD94UIcIJmML0P1t/FoodPlease?node-id=0-1&t=GKQm4L4Gu4161DAS-1
 
+A continuación se presentan algunos de los mockups desarrollados. Cabe destacar que en esta entrega solo se desarrollaron mockups del cliente.
+
 - Inicio  
   ![Inicio](Inicio.png)
 
