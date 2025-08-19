@@ -12,6 +12,9 @@ https://www.figma.com/design/P0jA7GuD94UIcIJmML0P1t/FoodPlease?node-id=0-1&t=GKQ
 - Inicio  
   ![Inicio](Inicio.png)
 
+- Menú  
+  ![Menú](Happy Waffles.png)
+
 - Pedido  
   ![Pedido](Pedido.png)
 
