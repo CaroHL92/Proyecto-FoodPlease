@@ -9,6 +9,16 @@ Proyecto académico diseñado para el curso Taller de desarrollo web y móvil
 # Mockups
 https://www.figma.com/design/P0jA7GuD94UIcIJmML0P1t/FoodPlease?node-id=0-1&t=GKQm4L4Gu4161DAS-1
 
+- Inicio  
+  ![Inicio](Inicio.png)
+
+- Pedido  
+  ![Pedido](Pedido.png)
+
+- Pago  
+  ![Pago](Pago.png)
+
+
 # Propuesta de integración
 *Web (Local gastronómico):
   - Gestión de menú, disponibilidad de productos y precios.
